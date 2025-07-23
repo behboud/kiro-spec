@@ -4,7 +4,7 @@
 <!-- Phase: Design | Level: Detailed Guide | Prerequisites: requirements-phase.md -->
 <!-- Related: templates/design-template.md, ai-reasoning/decision-frameworks.md, examples/complex-system-spec.md -->
 
-**📍 You are here:** [Main Guide](../../README.md) → [Process Guide](README.md) → **Design Phase**
+**📍 You are here:** [Main Guide](../../README.md) → [Process Guide](../process/README.md) → **Design Phase**
 
 ## Quick Navigation
 - **🎯 Get Started:** [Design Template](../templates/design-template.md) - Ready-to-use template
@@ -16,7 +16,7 @@
 - **Previous:** [Requirements Phase](requirements-phase.md) - Must be completed first
 - **Current:** **Design Phase** - Create technical architecture and plan
 - **Next:** [Tasks Phase](tasks-phase.md) - Break down into implementation steps
-- **Context:** [Process Overview](README.md) - Three-phase workflow
+- **Context:** [Process Overview](../process/README.md) - Three-phase workflow
 
 ---
 

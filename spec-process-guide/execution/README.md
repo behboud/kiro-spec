@@ -10,7 +10,7 @@
 - **Prerequisites:** [Tasks Phase](../process/tasks-phase.md) - Learn how to create implementation plans
 - **Complete Example:** [Simple Feature Spec](../examples/simple-feature-spec.md) - See full spec-to-code workflow
 - **Helpful Tools:** [Tools & Resources](../resources/tools.md) - Recommended execution tools
-- **Process Overview:** [Three-Phase Workflow](../process/README.md) - Understand the full context
+- **Process Overview:** [Three-Phase Workflow](README.md) - Understand the full context
 
 ---
 
