@@ -8,7 +8,7 @@
 
 ## Quick Navigation
 - **Learn Process:** [Process Guide](../process/README.md) - Understand how to use these templates
-- **See Examples:** [Complete Examples](../examples/README.md) - Templates filled out in practice
+- **See Examples:** [Complete Examples](README.md) - Templates filled out in practice
 - **Standards Reference:** [EARS & Standards](../resources/standards.md) - Format guidelines
 - **Start Here:** [Requirements Template](requirements-template.md) - Begin your first spec
 

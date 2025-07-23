@@ -4,7 +4,7 @@
 <!-- Phase: Requirements | Level: Detailed Guide | Prerequisites: methodology/README.md -->
 <!-- Related: templates/requirements-template.md, resources/standards.md, examples/simple-feature-spec.md -->
 
-**📍 You are here:** [Main Guide](../../README.md) → [Process Guide](README.md) → **Requirements Phase**
+**📍 You are here:** [Main Guide](../../README.md) → [Process Guide](../process/README.md) → **Requirements Phase**
 
 ## Quick Navigation
 - **🎯 Get Started:** [Requirements Template](../templates/requirements-template.md) - Ready-to-use template
@@ -13,7 +13,7 @@
 - **➡️ Next Phase:** [Design Phase](design-phase.md) - After requirements are approved
 
 ## Phase Navigation
-- **Previous:** [Process Overview](README.md) - Three-phase workflow
+- **Previous:** [Process Overview](../process/README.md) - Three-phase workflow
 - **Current:** **Requirements Phase** - Transform ideas into structured requirements
 - **Next:** [Design Phase](design-phase.md) - Create technical architecture
 - **Final:** [Tasks Phase](tasks-phase.md) - Break down into implementation steps

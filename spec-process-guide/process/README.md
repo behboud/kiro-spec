@@ -8,7 +8,7 @@
 
 ## Quick Navigation
 - **Prerequisites:** [Methodology Overview](../methodology/README.md) - Understand the foundation first
-- **Templates:** [Ready-to-Use Templates](../templates/README.md) - Get started quickly
+- **Templates:** [Ready-to-Use Templates](README.md) - Get started quickly
 - **Examples:** [See Complete Specs](../examples/README.md) - Learn from real examples
 - **AI Help:** [Prompting Strategies](../prompting/README.md) - Collaborate effectively with AI
 
